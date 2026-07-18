@@ -112,7 +112,7 @@ Deep learning application for retinal disease detection.
 
 <p>
 
-<a href="(https://www.linkedin.com/in/viragkhade/)">
+<a href="https://www.linkedin.com/in/viragkhade/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
