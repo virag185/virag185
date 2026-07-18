@@ -1,81 +1,143 @@
-<h1 align="center">Hi, I'm Virag Khade 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Backend Developer | Java & Spring Boot</b>
+# Hi 👋, I'm Virag Khade
+
+### Backend Developer • Java • Spring Boot • REST APIs
+
+Building secure, scalable backend applications with modern Java technologies.
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Always+Learning.;Always+Building." />
+
+<p>
+<a href="https://github.com/virag185">
+<img src="https://komarev.com/ghpvc/?username=virag185&label=Profile+Views&color=0e75b6&style=flat" />
+</a>
 </p>
 
-<p align="center">
-Building scalable backend applications with Java, Spring Boot, and modern software engineering practices.
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-- 🎓 Computer Engineering Student
-- ☕ Passionate about Backend Development
-- 🚀 Building production-ready Java & Spring Boot applications
-- 📚 Currently learning Microservices, Docker, System Design, and AI
-- 💡 Strong interest in Clean Architecture and REST API development
+```java
+public class ViragKhade {
+
+    String role = "Backend Developer";
+
+    String[] languages = {
+        "Java",
+        "SQL",
+        "JavaScript"
+    };
+
+    String[] backend = {
+        "Spring Boot",
+        "Spring Security",
+        "Hibernate",
+        "REST APIs"
+    };
+
+    String[] currentlyLearning = {
+        "Microservices",
+        "Docker",
+        "System Design",
+        "AI Agents"
+    };
+
+    String motto = "Always Learning. Always Building.";
+}
+```
 
 ---
 
-## 🛠 Tech Stack
+# ⚙️ Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,mysql" />
+</p>
 
 ### Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven,hibernate,docker" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 💳 FinEdge API
-A secure banking backend built using Spring Boot featuring authentication, authorization, account management, and transaction APIs.
+## 💳 FinEdge API
 
-**Tech:** Java • Spring Boot • Spring Security • JWT • MySQL
+> Secure Banking REST API built using Spring Boot
 
----
-
-### 🤖 AI Resume Analyzer
-An AI-powered application that analyzes resumes and provides ATS optimization insights.
-
----
-
-### 🏥 MedSync
-A healthcare platform designed to improve patient medication adherence and communication.
+- JWT Authentication
+- Spring Security
+- Role-Based Access Control
+- Account Management
+- Transaction APIs
 
 ---
 
-### 👁 Retinal Disease Classifier
-Deep learning project for classifying retinal diseases from medical images.
+## 🤖 AI Resume Analyzer
+
+AI-powered ATS Resume Analyzer using LLMs.
 
 ---
 
-## 🌱 Currently Learning
+## 🏥 MedSync
 
-- Microservices
+Healthcare platform for improving medication adherence.
+
+---
+
+## 👁 Retinal Disease Classifier
+
+Deep Learning project for retinal disease prediction.
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=virag185&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virag185&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=virag185&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=virag185&theme=github-compact"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Spring Security
 - Docker
+- Microservices
 - Kubernetes
 - System Design
 - AI Agents
@@ -83,24 +145,26 @@ Deep learning project for classifying retinal diseases from medical images.
 
 ---
 
-## 📈 GitHub Statistics
+# 🤝 Connect With Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=virag185&show_icons=true&theme=github_dark)
+<p align="left">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=virag185&layout=compact&theme=github_dark)
+<a href="www.linkedin.com/in/viragkhade">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=virag185&theme=github-dark)
+<a href="mailto:khadevirag5@gmail.com">
+<img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"/>
+</a>
 
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: www.linkedin.com/in/viragkhade
-
-- 📧 Email: khadevirag5@gmail.com
-
----
-
-<p align="center">
-<i>"Always learning. Always building."</i>
 </p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+*"Clean Code. Scalable Systems. Continuous Learning."*
+
+</div>
