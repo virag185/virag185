@@ -6,13 +6,7 @@
 
 Building secure, scalable backend applications with modern Java technologies.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Always+Learning.;Always+Building." />
-
-<p>
-<a href="https://github.com/virag185">
-<img src="https://komarev.com/ghpvc/?username=virag185&label=Profile+Views&color=0e75b6&style=flat" />
-</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Developer;Always+Learning.;Always+Building." />
 
 </div>
 
@@ -23,29 +17,27 @@ Building secure, scalable backend applications with modern Java technologies.
 ```java
 public class ViragKhade {
 
-    String role = "Backend Developer";
+    private final String role = "Backend Developer";
 
-    String[] languages = {
+    private final String[] skills = {
         "Java",
-        "SQL",
-        "JavaScript"
-    };
-
-    String[] backend = {
         "Spring Boot",
         "Spring Security",
+        "REST APIs",
         "Hibernate",
-        "REST APIs"
+        "MySQL"
     };
 
-    String[] currentlyLearning = {
+    private final String[] learning = {
         "Microservices",
         "Docker",
         "System Design",
         "AI Agents"
     };
 
-    String motto = "Always Learning. Always Building.";
+    public String motto() {
+        return "Always Learning. Always Building.";
+    }
 }
 ```
 
@@ -62,13 +54,13 @@ public class ViragKhade {
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,maven,hibernate,docker" />
+<img src="https://skillicons.dev/icons?i=spring,maven,docker" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" />
 </p>
 
 ---
@@ -77,13 +69,13 @@ public class ViragKhade {
 
 ## 💳 FinEdge API
 
-> Secure Banking REST API built using Spring Boot
+A secure banking backend built using Spring Boot.
 
 - JWT Authentication
 - Spring Security
 - Role-Based Access Control
-- Account Management
-- Transaction APIs
+- RESTful APIs
+- MySQL Database
 
 ---
 
@@ -95,41 +87,13 @@ AI-powered ATS Resume Analyzer using LLMs.
 
 ## 🏥 MedSync
 
-Healthcare platform for improving medication adherence.
+Healthcare platform focused on improving patient medication adherence.
 
 ---
 
-## 👁 Retinal Disease Classifier
+## 👁️ Retinal Disease Classifier
 
-Deep Learning project for retinal disease prediction.
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=virag185&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virag185&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=virag185&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=virag185&theme=github-compact"/>
-
-</p>
+Deep learning application for retinal disease detection.
 
 ---
 
@@ -138,7 +102,6 @@ Deep Learning project for retinal disease prediction.
 - Spring Security
 - Docker
 - Microservices
-- Kubernetes
 - System Design
 - AI Agents
 - LLM Applications
@@ -147,14 +110,14 @@ Deep Learning project for retinal disease prediction.
 
 # 🤝 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="www.linkedin.com/in/viragkhade">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:khadevirag5@gmail.com">
-<img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -165,6 +128,6 @@ Deep Learning project for retinal disease prediction.
 
 ### ⭐ Thanks for visiting!
 
-*"Clean Code. Scalable Systems. Continuous Learning."*
+**"Clean Code • Scalable Systems • Continuous Learning"**
 
 </div>
