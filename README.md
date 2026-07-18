@@ -12,7 +12,7 @@ Building secure, scalable backend applications with modern Java technologies.
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
 ```java
 public class ViragKhade {
