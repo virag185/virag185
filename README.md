@@ -1,12 +1,18 @@
+<div align="center">
+
 # Hi 👋, I'm Virag Khade
 
 ### Backend Developer • Java • Spring Boot • REST APIs
 
 Building secure, scalable backend applications with modern Java technologies.
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Developer;Always+Learning.;Always+Building." />
+
+</div>
+
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
 ```java
 public class ViragKhade {
@@ -41,9 +47,21 @@ public class ViragKhade {
 
 ### Languages
 
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,mysql" />
+</p>
+
 ### Backend
 
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven,docker" />
+</p>
+
 ### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" />
+</p>
 
 ---
 
@@ -92,8 +110,24 @@ Deep learning application for retinal disease detection.
 
 # 🤝 Connect With Me
 
+<p>
+
+<a href="https://www.linkedin.com/in/viragkhade/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:khadevirag5@gmail.com">
+<img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
 ---
+
+<div align="center">
 
 ### ⭐ Thanks for visiting!
 
-**"Clean Code • Scalable Systems • Continuous Learning" how does this look what changes you would make more** 
+**"Clean Code • Scalable Systems • Continuous Learning"**
+
+</div>
