@@ -163,7 +163,7 @@ My goal is to move beyond simply writing code and understand how
 I'm always interested in connecting with developers, engineers,
 and people building interesting technology.
 
-**LinkedIn:** [Connect with me](https://www.linkedin.com/in/viragkhade/)
+**LinkedIn:** (https://www.linkedin.com/in/viragkhade/)
 
 **Email:** [khadevirag5@gmail.com](mailto:khadevirag5@gmail.com)
 
