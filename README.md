@@ -1,7 +1,6 @@
 # Hi 👋, I'm Virag Khade
 
 ### Java Backend Developer • Spring Boot • REST APIs • SQL
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Always+Learning.;Always+Building.;Always+Improving.;Building+Better+Backend+Systems." />
 
 I build secure and scalable backend applications with Java and Spring Boot, 
