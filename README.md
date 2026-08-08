@@ -2,6 +2,8 @@
 
 ### Java Backend Developer • Spring Boot • REST APIs • SQL
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Always+Learning.;Always+Building.;Always+Improving.;Building+Better+Backend+Systems." />
+
 I build secure and scalable backend applications with Java and Spring Boot, 
 with a strong focus on clean architecture, API development, authentication, 
 and database-driven applications.
@@ -163,7 +165,7 @@ My goal is to move beyond simply writing code and understand how
 I'm always interested in connecting with developers, engineers,
 and people building interesting technology.
 
-**LinkedIn:** (https://www.linkedin.com/in/viragkhade/)
+**LinkedIn:** https://www.linkedin.com/in/viragkhade/
 
 **Email:** [khadevirag5@gmail.com](mailto:khadevirag5@gmail.com)
 
