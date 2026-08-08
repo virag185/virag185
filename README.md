@@ -1,14 +1,12 @@
-<div align="center">
-
 # Hi 👋, I'm Virag Khade
 
-### Backend Developer • Java • Spring Boot • REST APIs
+### Java Backend Developer • Spring Boot • REST APIs • SQL
 
-Building secure, scalable backend applications with modern Java technologies.
+I build secure and scalable backend applications with Java and Spring Boot, 
+with a strong focus on clean architecture, API development, authentication, 
+and database-driven applications.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Developer;Always+Learning.;Always+Building." />
-
-</div>
+> **Always Learning. Always Building.**
 
 ---
 
@@ -17,117 +15,164 @@ Building secure, scalable backend applications with modern Java technologies.
 ```java
 public class ViragKhade {
 
-    private final String role = "Backend Developer";
+    private final String role = "Java Backend Developer";
 
-    private final String[] skills = {
+    private final String focus =
+            "Building secure and scalable backend systems";
+
+    private final String[] coreTechnologies = {
         "Java",
         "Spring Boot",
         "Spring Security",
         "REST APIs",
+        "Spring Data JPA",
         "Hibernate",
         "MySQL"
     };
 
-    private final String[] learning = {
+    private final String[] engineeringPractices = {
+        "JWT Authentication",
+        "Role-Based Authorization",
+        "Clean Code",
+        "API Design",
+        "Database Design"
+    };
+
+    private final String[] exploring = {
         "Microservices",
         "Docker",
         "System Design",
-        "AI Agents"
+        "AI Agents",
+        "LLM Applications"
     };
 
-    public String motto() {
-        return "Always Learning. Always Building.";
+    public String mindset() {
+        return "Build. Learn. Improve. Repeat.";
     }
 }
 ```
 
 ---
 
-# ⚙️ Tech Stack
+# ⚙️ What I Work With
 
-### Languages
+### ☕ Backend & Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,mysql" />
-</p>
+`Java` • `Spring Boot` • `Spring Security` • `REST APIs` • `JPA` • `Hibernate`
 
-### Backend
+### 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven,docker" />
-</p>
+`MySQL` • `SQL` • `Database Design`
 
-### Tools
+### 🔐 Security
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" />
-</p>
+`JWT` • `Authentication` • `Authorization` • `Role-Based Access Control`
+
+### 🛠️ Development Tools
+
+`Git` • `GitHub` • `Maven` • `Postman` • `IntelliJ IDEA` • `VS Code`
+
+### 🐳 Currently Exploring
+
+`Docker` • `Microservices` • `System Design` • `AI Agents` • `LLMs`
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 What I'm Building
 
 ## 💳 FinEdge API
 
-A secure banking backend built using Spring Boot.
+**A secure banking backend built with Java and Spring Boot.**
 
-- JWT Authentication
-- Spring Security
-- Role-Based Access Control
-- RESTful APIs
-- MySQL Database
+FinEdge is my primary backend project, focused on building a real-world
+banking API with secure authentication, authorization, database integration,
+and maintainable backend architecture.
 
----
+### Current Focus
 
-## 🤖 AI Resume Analyzer
+- 🔐 JWT-based authentication
+- 🛡️ Spring Security
+- 👥 Role-based authorization
+- 🗄️ MySQL database integration
+- 🌐 RESTful API development
+- 🧩 Service & repository architecture
+- 📦 Maven-based project structure
 
-AI-powered ATS Resume Analyzer using LLMs.
-
----
-
-## 🏥 MedSync
-
-Healthcare platform focused on improving patient medication adherence.
+**Tech:** `Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `JPA`
 
 ---
 
-## 👁️ Retinal Disease Classifier
+# 🧠 Other Projects
 
-Deep learning application for retinal disease detection.
+### 🤖 AI Resume Analyzer
+
+An AI-powered application designed to analyze resumes, provide ATS scoring,
+and generate optimization insights using LLM-based technologies.
+
+---
+
+### 🏥 MedSync
+
+A healthcare-focused application designed to improve medication adherence
+through dedicated patient and doctor workflows.
+
+---
+
+### 👁️ Retinal Disease Classifier
+
+A deep learning project for classifying retinal images into multiple
+eye-disease categories.
+
+**Tech:** `Python` `Deep Learning` `Computer Vision`
 
 ---
 
 # 🌱 Currently Learning
 
-- Spring Security
-- Docker
-- Microservices
-- System Design
-- AI Agents
-- LLM Applications
+```text
+Java & Advanced Java
+        ↓
+Spring Boot & Security
+        ↓
+REST API Development
+        ↓
+Docker & Microservices
+        ↓
+System Design
+        ↓
+AI Agents & LLM Applications
+```
+
+My goal is to move beyond simply writing code and understand how
+**reliable, secure, and scalable software systems are designed.**
 
 ---
 
-# 🤝 Connect With Me
+# 🎯 Engineering Principles
 
-<p>
+- Write code that is easy to understand.
+- Design APIs with security and maintainability in mind.
+- Keep learning through hands-on projects.
+- Prefer meaningful improvements over unnecessary complexity.
+- Build projects that solve real-world problems.
 
-<a href="https://www.linkedin.com/in/viragkhade/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+---
 
-<a href="mailto:khadevirag5@gmail.com">
-<img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+# 🤝 Let's Connect
 
-</p>
+I'm always interested in connecting with developers, engineers,
+and people building interesting technology.
+
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/viragkhade/)
+
+**Email:** [khadevirag5@gmail.com](mailto:khadevirag5@gmail.com)
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+### Thanks for visiting my profile 👋
 
-**"Clean Code • Scalable Systems • Continuous Learning"**
+**Build with purpose. Learn continuously. Ship better.**
 
 </div>
