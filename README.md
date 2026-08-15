@@ -80,3 +80,12 @@ public class ViragKhade {
         return "Build. Learn. Improve. Repeat.";
     }
 }
+⚙️ What I Work With
+☕ Backend Development
+
+Java • Spring Boot • Spring Security • REST APIs
+Spring Data JPA • Hibernate • Maven
+
+🎨 Frontend Development
+
+HTML • CSS • JavaScript • React
